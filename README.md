@@ -31,7 +31,7 @@ De environment.yml file is nodig voor deze installatie en bevat de informatie om
 
 Ga naar de environment.yml file en download deze naar een folder (bijvoorbeeld C:/Users/UserName/Documents/Geopython).
 
-Open daarna de anaconda prompt. (AFBEELDING TOEVOEGEN).
+Open daarna de anaconda prompt. 
 Typ hierbij volgende code in (lijn per lijn):
 
 ```shell
@@ -39,7 +39,7 @@ conda config --add channels conda-forge
 conda config --set channel_priority strict
 cd FOLDER_PATH_TO_ENVIRONMENT_FILE
 conda env create -f environment.yml
-
+    
 Vervang FOLDER_PATH_TO_ENVIRONMENT_FILE door het pad naar de map waarin het environment.yml bestand zich bevindt.
 
 De environment en pakketten zullen vervolgens worden geïnstalleerd, dit kan enkele minuten duren. Antwoord met '''y''' indien dit gevraagd wordt.
