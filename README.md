@@ -53,6 +53,7 @@ Om jupyter lab te openen en de cursus-*notebooks* te kunnen gebruiken, open de A
 
 ```shell
 cd FOLDER_PAD_NAAR_CURSUSMATERIAAL
+```   
 
 Vervang hierbij de FOLDER_PAD_NAAR_CURSUSMATERIAAL door het correct pad.
 (bijvoorbeeld: C:/Users/yourusername/Documents/Geopython)
@@ -61,6 +62,7 @@ Vervang hierbij de FOLDER_PAD_NAAR_CURSUSMATERIAAL door het correct pad.
 
 ```shell
 conda activate GCCA-Geopython
+``` 
 
 3. Start Jupyter Notebook
 Jupyter notebook is een interactieve omgeving om code te schrijven en te laten lopen. Een voordeel is dat de code kan worden afgewisseld met extra verduidelijkende tekst. Ideaal dus voor een cursus geopython!
@@ -69,6 +71,7 @@ Om jupyter notebook te starten, typ binnen het geactiveerde environment:
 
 ```shell
 jupyter lab
+```  
 
 Een chrome-venster gaat open, waarin de jupyter lab tevoorschijn komt.
 
