@@ -1,15 +1,16 @@
 # Python voor Geospatiale Analyse
 
-Welkom bij de repository voor de cursus "Python voor Geospatiale Analyse"! Deze cursus is ontworpen binnen het GCCA+ 2 project, om kennis en vaardigheden te bieden voor het effectief gebruiken van Python bij geospatiale analyse. Of je nu een GIS-professional, een onderzoeker of een enthousiaste dataliefhebber bent, deze cursus biedt je de tools en technieken om geospatiale gegevens te manipuleren, analyseren en visualiseren met behulp van Python.
+Welkom bij de repository voor de cursus "Python voor Geospatiale Analyse"! Deze cursus is ontworpen binnen het GCCA+ 2 project, om kennis en vaardigheden te bieden voor het effectief gebruiken van Python bij geospatiale analyse. 
+
 
 ## Inhoud van de cursus
 
 1. **Python-introductie in Jupyter Lab**: Maak kennis met de basisprincipes van Python-programmering in het interactieve Jupyter Lab-omgeving.
 2. **Pandas**: Leer hoe je geospatiale datasets kunt laden, schoonmaken, analyseren en visualiseren met behulp van de krachtige pandas-bibliotheek.
-3. **Geopandas voor vectoranalyse**: Verken geospatiale vectoranalyse en ontdek hoe je geopandas kunt gebruiken voor taken zoals ruimtelijke koppelingen, buffering en ruimtelijke queries.
-4. **Rasterio voor rasters**: Ontdek de mogelijkheden van rasterio voor het werken met rastergegevens, inclusief het lezen, manipuleren en visualiseren van georeferenced rasters.
+3. **Geopandas voor vectoranalyse**: Verken geospatiale vectoranalyse en ontdek hoe je geopandas kunt gebruiken voor taken zoals ruimtelijke koppelingen, buffering en ruimtelijk
+4. **xarray en rasterio voor rasteranalyse**: Ontdek de mogelijkheden van rasterio voor het werken met rastergegevens, inclusief het lezen, manipuleren en visualiseren van georeferenced rasters.
 5. **Raster-vector operaties**: Leer hoe je vector- en rastergegevens kunt combineren en overlayen om geavanceerde geospatiale analyses uit te voeren, zoals zonale statistieken en ruimtelijke aggregatie.
-6. **Machine learning voor landbedekkingsclassificatie**: Verken machine learning-technieken voor het classificeren van landbedekking op basis van geospatiale gegevens, inclusief remote sensing-beelden.
+6. **GeoWombat: scaling en machine learning**: Verken machine learning-technieken voor het classificeren van landbedekking op basis van geospatiale gegevens, inclusief remote sensing-beelden.
 
 # Installatie en vereisten
 
@@ -74,6 +75,8 @@ Een chrome-venster gaat open, waarin de jupyter lab tevoorschijn komt.
 
 Het cursusmateriaal is gestructureerd in afzonderlijke modules, elk met hun eigen notebooks en bijbehorende datasets. Je kunt door de mappen navigeren om toegang te krijgen tot de specifieke inhoud van elke module. Naast de 'basiscursus' kan de opgedane kennis aan de hand van extra notebooks worden uitgebreid, via referentiemateriaal.
 
+Het cursusmateriaal wordt tijden de cursus steeds bijgewerkt, dus mogelijks zul je de meest recente versies moeten downloaden
+
 ## Aan de slag
 
 Om te beginnen met de cursus, raden we je aan om de notebooks te openen in Jupyter Lab en de instructies te volgen. De notebooks bevatten gedetailleerde uitleg, codevoorbeelden en oefeningen om je te helpen de concepten en technieken te begrijpen en toe te passen.
@@ -81,9 +84,6 @@ Om te beginnen met de cursus, raden we je aan om de notebooks te openen in Jupyt
 ## Bronnen
 
 Deze cursus is tot stand gekomen dankzij enkele zeer nuttige bronnen:
-- 
-- 
-- 
 -
  
 
