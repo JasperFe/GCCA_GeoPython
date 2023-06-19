@@ -13,6 +13,9 @@ Welkom bij de repository voor de cursus "Python voor Geospatiale Analyse"! Deze 
 6. **GeoWombat: scaling en machine learning**: Verken machine learning-technieken voor het classificeren van landbedekking op basis van geospatiale gegevens, inclusief remote sensing-beelden.
 
 # Installatie en vereisten
+## Binder
+Je kunt de cursus ook online volgen, zonder installatie via binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JasperFe/GCCA_GeoPython/HEAD)
+
 
 ## 1. Installeer Anaconda
 
