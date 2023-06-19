@@ -24,7 +24,7 @@ We maken gebruik van Anaconda als distributeur van python (versie 3.X) en jupyte
 ## 2. Maak een nieuw **conda environment** aan
 Anaconda werkt met **conda environments**, wat python-omgeving is met alle noodzakelijke pakketten voor een bepaalde toepassing (op die manier kun je meerdere environments hebben, voor verschillende applicaties). We maken een nieuwe **conda environment** aan, die de noodzakelijke paketten bevat voor deze cursus. 
 
-De environment.yml file is nodig voor deze installatie en bevat de informatie omtrent;
+De [environment.yml](https://github.com/JasperFe/GCCA_GeoPython/blob/main/environment.yml) file is nodig voor deze installatie en bevat de informatie omtrent;
   * de naam van de omgeving
   * de channels waaruit python-pakketten gedownload worden
   * een lijst met alle te installeren paketten.
