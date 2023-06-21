@@ -14,7 +14,7 @@ Welkom bij de repository voor de cursus "Python voor Geospatiale Analyse"! Deze 
 
 # Installatie en vereisten
 ## Binder
-Je kunt de cursus ook online volgen, zonder installatie via binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JasperFe/GCCA_GeoPython/HEAD)
+Je kunt de cursus ook online volgen, zonder installatie via binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JasperFe/GeoPython_2/HEAD)
 
 
 
