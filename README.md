@@ -17,6 +17,7 @@ Welkom bij de repository voor de cursus "Python voor Geospatiale Analyse"! Deze 
 Je kunt de cursus ook online volgen, zonder installatie via binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JasperFe/GCCA_GeoPython/HEAD)
 
 
+
 ## 1. Installeer Anaconda
 
 We maken gebruik van Anaconda als distributeur van python (versie 3.X) en jupyter lab. Dit is een open-source sofware, waardoor de installatie volledig gratis is. Ga naar website van Anaconda: [https://www.anaconda.com/download/](https://www.anaconda.com/download/).
